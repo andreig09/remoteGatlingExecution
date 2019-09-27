@@ -1,6 +1,6 @@
 # remoteGatlingExecution
 Shellscript to run open-source Gatling tool distributing the load through various load generators. 
-It's my adaptation to the script posted on the [Gatling site](https://gatling.io/docs/current/cookbook/scaling_out/).
+It's a modfied version of the script posted on the [Gatling site](https://gatling.io/docs/current/cookbook/scaling_out/).
 
 Please, pay attention to the following suggestions in order to have the script running properly:
 
